@@ -1,0 +1,30 @@
+/* styles.css */
+#controls {
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #drawingArea {
+    width: 960px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 34px;
+    text-align: center;
+    margin-top: 60px;
+  }
+  
+  .color-btn {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 50%;
+  }
+  
+  .color-btn:hover {
+    opacity: 0.8;
+  }
+  
